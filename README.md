@@ -1,3 +1,23 @@
+# Laravel Football API Project
+
+This project uses the API-Football from RapidAPI to display live football matches in a Laravel web application.
+
+## Features
+- Live match info
+- Team names and scores
+- RapidAPI integration
+
+## Setup
+- Clone repo
+- Run `composer install`
+- Add `.env` with your API key
+- Run `php artisan serve`
+
+## Author
+Intan Ramadani – Politeknik Negeri Padang
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
